@@ -1,2 +1,2 @@
-# flippy_bird
-game flippy bird with with a record of progress to database
+# library console app
+simple project console app with crud system 
