@@ -8,7 +8,7 @@ using MySqlConnector;
 namespace Library { 
     class ConnectToDB
     {
-        string connection = "Server=db4free.net;port=3306;database=mylibraryqwert;username=romanb;password=_ir038hhFHpoifns";
+        string connection = "";
         public string GetConnection()
         {
             return connection;
